@@ -17,4 +17,6 @@
 <br>
 9. Battery --- ~$2
 <br>
-<h3>Total: ~$23</h3>
+10. Motor Driver --- ~$2
+<br>
+<h3>Total: ~$26.5</h3>
