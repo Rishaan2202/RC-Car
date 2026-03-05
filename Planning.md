@@ -15,4 +15,6 @@
 <br>
 8. Wires --- ~$2
 <br>
+9. Battery --- ~$2
+<br>
 <h3>Total: ~$23</h3>
